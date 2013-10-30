@@ -4,15 +4,27 @@ A birthday card that plays a song when a button is pushed
 
 ![](https://raw.github.com/jerwil/Birthday_Card/master/Birthday_Card_Photo.JPG "Card")
 
+![](https://raw.github.com/jerwil/Birthday_Card/master/Bday_Card_pcb.jpg "Circuit Diagram")
+
 ## Features
 
 * Plays a song when button is pressed
 * Song stops when button is pressed
 * Can play 3 tones simultaneously
 
+## Demo
+
+* [Demo of test circuit](http://www.youtube.com/watch?v=Bwl5eqYKW98)
+
 ## Making of
 
 * Coming soon
+
+## Instructions
+
+These are the instructions I gave my brother
+
+* [Birthday Card Instructions](http://www.jeremyadamwilson.com/birthday-card-instructions/)
 
 ## Requirements
 
