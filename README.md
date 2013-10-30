@@ -14,7 +14,7 @@ A birthday card that plays a song when a button is pushed
 
 ## Demo
 
-* [Demo of test circuit](http://www.youtube.com/watch?v=Bwl5eqYKW98)
+* [Demo of test circuit](http://www.youtube.com/watch?v=ASfwomKhCUE)
 
 ## Making of
 
