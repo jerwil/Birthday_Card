@@ -16,7 +16,7 @@ A birthday card that plays a song when a button is pushed
 
 ## Requirements
 
-### Hardware for Breadboard Version
+### Hardware
 
 * Arduino Uno for programming
 * ATMega328 chip
